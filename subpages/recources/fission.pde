@@ -1,9 +1,9 @@
-/* Simulationsumgebung für Kettenreaktionen v.1.1
+/* Simulationsumgebung für Kettenreaktionen v1.1
   von Alex Wellerstein (wellerstein@gmail.com), modifiziert & übersetzt von Elias Dahmen
 
   Programmiert mit Processing.js
 
-  Der zugehörige Artikel: http://blog.nuclearsecrecy.com/2015/04/10/critical-mass/
+  Der zugehörige Artikel des ursprünglichen Autors: http://blog.nuclearsecrecy.com/2015/04/10/critical-mass/
 
 */
 
